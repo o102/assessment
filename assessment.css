@@ -1,0 +1,15 @@
+body {
+	background-color: #04a6eb;
+ 	color: #fdffff;
+	width: 500px;
+	margen-right:auto;/*マージン(要素外の余白)自動調整*/
+	margen-left:auto;
+}
+button {
+	padding: 5px 20px;/*要素内の余白上下・左右*/
+	background-color: #337ab7;
+	border-style: none;
+}
+input{
+	height:20px;
+}
